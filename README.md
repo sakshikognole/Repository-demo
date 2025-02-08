@@ -1,4 +1,4 @@
 # Repository-demo
 This is my first Git Repository.
 <br>
-Author - Sakshi Ajt Kognole
+Author - Sakshi Ajit Kognole
